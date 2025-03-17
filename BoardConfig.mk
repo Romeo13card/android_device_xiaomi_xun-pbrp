@@ -134,4 +134,4 @@ TW_LOAD_VENDOR_MODULES  += "adsp_loader_dlkm.ko focaltech_ts_spi.ko nt36532_spi.
 TW_ROTATION := 180
 
 # Version
-TW_DEVICE_VERSION := Gowther
+TW_DEVICE_VERSION := Romeo13card
