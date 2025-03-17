@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_xun.mk
+    $(LOCAL_DIR)/pbrp_xun.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_xun-user \
-    twrp_xun-userdebug \
-    twrp_xun-eng
+    pbrp_xun-user \
+    pbrp_xun-userdebug \
+    pbrp_xun_xun-eng
