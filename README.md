@@ -1,6 +1,5 @@
 # Custom Recovery Tree
-Build your own custom recovery for Redmi Pad SE (aka xun).
-
+Build your own custom recovery for Redmi Pad SE
 ![XUN](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-pad-se-10.jpg)
 
 # Features
@@ -12,7 +11,8 @@ Build your own custom recovery for Redmi Pad SE (aka xun).
 - [X] Backup and Restore
 
 # Notes
-Tell me
+Tell me:
+Telegram:@Romeo_13card
 
 ```
 #
